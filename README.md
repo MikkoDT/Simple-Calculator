@@ -1,5 +1,6 @@
 # Simple-Calculator
 
-![](Simple_Calculator.JPG)
+<img src="
+
 
 Practice of TKinter
