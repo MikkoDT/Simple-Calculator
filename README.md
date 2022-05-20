@@ -1,6 +1,6 @@
 # Simple-Calculator
 
-<img src="
+<img src="Simple_Calculator.JPG" height="500">
 
 
 Practice of TKinter
