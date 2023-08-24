@@ -3,4 +3,4 @@
 <img src="Simple_Calculator.JPG" height="500">
 
 
-Practice of TKinter
+This is my first practice of TKinter.
